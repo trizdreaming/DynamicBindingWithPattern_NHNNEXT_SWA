@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<SortingType>
+    <!-- buubleSort active
+	<method>BubbleSort</method>-->
+
+    <!-- quickSort active-->
+    <method>QuickSort</method>
+    
+</SortingType>
